@@ -30,6 +30,12 @@ Analyse des ventes, du chiffre d'affaires, des bénéfices et des performances c
 
 🔗 [Voir le projet Excel](https://github.com/SoufianeHammouali/Excel-Sales-Performance-Dashboard)
 
+
+**Aperçu du tableau de bord Excel :**
+
+![Tableau de bord Excel — Analyse des ventes](https://raw.githubusercontent.com/SoufianeHammouali/Excel-Sales-Performance-Dashboard/main/Excel_Sales_Performance_Dashboard.png)
+
+
 ### 🗄️ 2. Analyse commerciale — SQL
 
 Exploration et analyse des performances commerciales à l'aide de requêtes SQL pour identifier les tendances, les produits performants et les segments de clientèle.
@@ -41,6 +47,10 @@ Exploration et analyse des performances commerciales à l'aide de requêtes SQL 
 Création d'un tableau de bord interactif pour analyser le chiffre d'affaires, la rentabilité, les produits, les catégories et les tendances mensuelles.
 
 🔗 [Voir le projet Power BI](https://github.com/SoufianeHammouali/Power-BI-Sales-Performance-Dashboard)
+
+**Aperçu du tableau de bord Power BI :**
+
+![Tableau de bord Power BI](https://raw.githubusercontent.com/SoufianeHammouali/Power-BI-Sales-Performance-Dashboard/main/Sales_Performance_Dashboard.png)
 
 ### 🐍 4. Analyse des ventes — Python
 
