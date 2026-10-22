@@ -56,6 +56,18 @@ Création d'un tableau de bord interactif pour analyser le chiffre d'affaires, l
 
 Analyse de 1 000 commandes commerciales de 2025 avec Python, Pandas et Matplotlib.
 
+
+**Aperçu des analyses réalisées avec Python :**
+
+**1. Évolution mensuelle du chiffre d'affaires**
+
+![Évolution mensuelle du chiffre d'affaires](https://raw.githubusercontent.com/SoufianeHammouali/Python_Sales_Analysis_1000/main/Charts/monthly_revenue_trend.png)
+
+**2. Chiffre d'affaires par catégorie**
+
+![Chiffre d'affaires par catégorie](https://raw.githubusercontent.com/SoufianeHammouali/Python_Sales_Analysis_1000/main/Charts/revenue_by_category.png)
+
+
 **Résultats principaux :**
 - Chiffre d'affaires : 7 139 581 MAD
 - Bénéfice total : 1 900 950,98 MAD
