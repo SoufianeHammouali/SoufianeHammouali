@@ -9,6 +9,12 @@ Je développe des projets pratiques en **Excel, SQL, Power BI et Python** pour t
 🎯 **Mon objectif :** évoluer professionnellement dans le domaine de l'analyse de données en tant que Data Analyst.
 
 ## 🛠️ Compétences techniques
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 - 📊 **Excel :** tableaux de bord, tableaux croisés dynamiques, KPI et analyse commerciale
 - 🗄️ **SQL :** requêtes, jointures, agrégations et analyse de données
